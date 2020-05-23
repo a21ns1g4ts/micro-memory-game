@@ -1,0 +1,101 @@
+[
+  {
+    "id":1,
+    "identifier":"aids",
+    "description": "Infecção Sexualmente Transmissível <strong>(IST)</strong> causada pelo Vírus da Imunodeficiência Humana <strong>(HIV)</strong>.",
+    "transmission": "transmitida pelo contato sexual, pelo sangue e de mãe para filho.",
+    "symptoms": "febre, calafrios, manchas na pele, ínguas, dor de cabeça, garganta e corpo. Como afeta o sistema imunológico, outras doenças podem surgir num estágio mais avançado."
+  },
+  {
+    "id":2,
+    "identifier":"catapora",
+    "description": "Doença infecciosa e altamente contagiosa causada pelo vírus <strong><i>Varicela-Zoster</i></strong>, que acomete com muita frequência as crianças.",
+    "transmission": "através do contato com as secreções (líquido da bolha), ou através da tosse, espirro, saliva dos portadores da doença. De modo indireto, a transmissão pode ocorrer através de objetos inanimados contaminados por secreções.",
+    "symptoms": "lesões cutâneas (na pele) avermelhadas, que se apresentam nas diversas formas evolutivas (máculas, pápulas, vesículas, pústulas e crostas), acompanhadas de prurido (coceira)."
+  },
+  {
+    "id":3,
+    "identifier":"clamídia",
+     "description": "É uma Infecção Sexualmente Transmissível <strong>(IST)</strong> causada pela bactéria <strong><i>Chlamydia trachomatis</i></strong>.",
+    "transmission": "através de relações sexuais; ou através de mãe para filho através do canal do parto. ",
+    "symptoms": "dor ou ardor ao urinar; vontade frequente de urinar; nos homens testículos doloridos e inchados; no caso das mulheres dor no baixo ventre."
+  },
+  {
+    "id":4,
+    "identifier":"covid-19",
+    "description": "O Novo Coronavírus recebeu a denominação SARS-CoV-2 pela Organização Mundial da Saúde (OMS) e a doença que ele provoca tem a denominação COVID-19. Faz parte da família de vírus que causam infecções respiratórias agudas.",
+    "transmission": "costuma ocorrer pelo ar (gotículas respiratórias) ou por contato pessoal através de espirro, tosse, saliva e outras secreções.",
+    "symptoms": "os sinais e sintomas são principalmente respiratórios, semelhantes a um resfriado, acompanhado de tosse, febre alta, cansaço, e dificuldade de respirar nos casos mais graves."
+  },
+  {
+    "id":5,
+    "identifier":"dengue",
+    "description": "Doença febril grave causada por um arbovírus. Os arbovírus são vírus transmitidos por picadas de insetos, especialmente os mosquitos.",
+    "transmission": "através da picada do mosquito Aedes aegypti, que é o principal vetor.",
+    "symptoms": "febre alta, fadiga, perda de apetite, náuseas, vômitos, manchas e coceira na pele, dor de cabeça e no fundo dos olhos, dor abdominal, nos ossos e nas articulações, entre outros."
+  },
+  {
+    "id":6,
+    "identifier":"gonorreia",
+    "description": "É uma Infecção Sexualmente Transmissível <strong>(IST)</strong>, causada pela bactéria <strong><i>Neisseria gonorrhoeae</i></strong>.",
+    "transmission": "através de relações sexuais; pode causar conjuntivite no recém-nascido durante o parto.",
+    "symptoms": "dor e ardor ao urinar; sangramentos; corrimento amarelado e com forte odor. Causa uretrite no homem e cervicite na mulher."
+  },
+  {
+    "id":7,
+    "identifier":"h1n1",
+    "description": "A gripe H1N1 é uma doença causada pela mutação do vírus da gripe (Influenza) e é popularmente conhecida como gripe suína. ",
+    "transmission": "a transmissão do vírus ocorre de uma pessoa para outra, por partículas que saem da boca através de espirro, tosse ou fala. Além disso, é possível pegar a gripe por contato com superfícies contaminadas com gotículas respiratórias (o que pode incluir qualquer objeto).",
+    "symptoms": "os sintomas da gripe H1N1 são muito parecidos com os da gripe comum, porém apresentando mais alterações gastrointestinais. Os sinais mais comuns são: Febre, Tosse, Dor de garganta, Mal estar, Cefaleia, Vômito, Diarreia."
+  },
+  {
+    "id":8,
+    "identifier":"hepatite-a",
+    "description": "Doenças contagiosa causada pelo vírus da Hepatite A <strong>(HAV/VHA)</strong>. É uma inflamação aguda do fígado",
+    "transmission": "a transmissão ocorre pela via fecal-oral, alimentos e água contaminada. Nos ambientes familiar e de trabalho, o contato pessoal íntimo pode facilitar o contágio.",
+    "symptoms": "mal-estar, febre, pele e olhos amarelados, náuseas, vômitos, dor abdominal, cansaço, falta de apetite, urina escura e fezes esbranquiçadas."
+  },
+  {
+    "id":9,
+    "identifier":"hpv-papiloma-vírus",
+    "description": "É uma Infecção Sexualmente Transmissível <strong>(IST)</strong>. É um vírus que infecta pele ou mucosas.",
+    "transmission": "pelo contato sexual.",
+    "symptoms": "surgimento de verrugas, lesões e manchas na pele, sobretudo na área genital. As lesões são percursoras de câncer, como o câncer de colo de útero."
+  },
+  {
+    "id":10,
+    "identifier":"leptospirose",
+    "description": "É uma doença bacteriana que afeta seres humanos e animais. É causada pela bactéria do gênero Leptospira sp.",
+    "transmission": "contato com água ou objetos que tenham urina de animais infectados (como os ratos de esgoto).",
+    "symptoms": "os sintomas iniciais são parecidos com os de outras doenças, como a gripe e a dengue. Os principais são: febre alta, dor muscular, mal-estar, tosse, olhos vermelhos e manchas vermelhas pelo corpo."
+
+  },
+  {
+    "id":11,
+    "identifier":"pneumonia",
+    "description": "É uma infecção pulmonar causada por bactérias, vírus e fungos, ou processos alérgicos. Um dos principais agentes é a bactéria <strong><i>Streptococcus pneumoniae</i></strong>.",
+    "transmission": "através de espirro, saliva e tosse de pessoas infectadas.",
+    "symptoms": "dor no corpo, falta de ar persistente, febre alta, tosse, fraqueza e cansaço."
+  },
+  {
+    "id":12,
+    "identifier":"sarampo",
+    "description": "Doença altamente contagiosa causada pelo vírus do sarampo <strong><i>(Measles morbillivirus)</i></strong>, e  é muito comum na infância.",
+    "transmission": "ocorre transmissão é direta, de pessoa para pessoa, através do contato com gotículas do nariz, da boca ou da garganta da pessoa infectada, quando ela tosse, espirra, fala e respira próximo de outra pessoa.",
+    "symptoms": "febre, tosse, manchas avermelhadas no corpo e formação de pequenos pontos brancos no interior da boca denominados <span style='text-decoration: underline;'>sinais de Koplik</span>."
+  },
+  {
+    "id":13,
+    "identifier":"sifilis",
+    "description": "É uma Infecção Sexualmente Transmissível <strong>(IST)</strong> causada pela bactéria </strong><i>Treponema pallidum</i></strong>.",
+    "transmission": "a sífilis pode ser transmitida por relação sexual sem camisinha com uma pessoa infectada ou para a criança durante a gestação ou parto.",
+    "symptoms": "a doença ocorre em três fases (primária, secundária e terciária). A fase primária é caracteriza pelo aparecimento de uma lesão/ferida, geralmente única, no local de entrada da bactéria (órgãos genitais boca, ou outros locais da pele), é indolor, não coça, não arde e não tem pus, chamada de cancro duro. Na fase secundária ocorre manhas no corpo, que geralmente não coçam, incluindo palmas das mãos e plantas dos pés. E ainda febre, mal-estar, dor de cabeça e ínguas pelo corpo. Existe uma fase de latência ou assintomática; e dois a 40 anos depois pode surgir a fase terciária com lesões cutâneas, ósseas, cardiovasculares e neurológicas, podendo levar ao óbito."
+  },
+  {
+    "id":14,
+    "identifier":"tuberculose",
+    "description": "É uma doença infectocontagiosa causada pela bactéria <strong><i>Mycobacterium tuberculosis</i></strong>, também chamada de Bacilo de Koch (BK).",
+    "transmission": "é uma doença de transmissão aérea; ocorre a partir da inalação de bioaerossóis procedentes da fala, espirro ou tosse das pessoas infectadas.",
+    "symptoms": "fadiga, febre, tosse, emagrecimento, falta de apetite, sudorese, rouquidão e expectoração com sangue, nos casos mais graves."
+  }
+]
