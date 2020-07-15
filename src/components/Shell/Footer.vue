@@ -12,7 +12,7 @@
         <a href="https://github.com/Atiladanvi" target="_blank">@Atiladanvi</a>
       </p>
       <p>
-        <a href="https://github.com/vinicius73/vue-microbe-memory-game" target="_blank">
+        <a href="https://github.com/Atiladanvi/micro-memory-game" target="_blank">
           <small>
             v{{ $options.version }}
           </small>
